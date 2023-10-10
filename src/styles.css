@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  gap: 10px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+}
+
+.list-container {
+  border: 1px solid black;
+  min-height: 6rem;
+  flex: 1;
+}
